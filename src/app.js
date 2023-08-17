@@ -4,7 +4,7 @@ const Subscribers = require('./models/subscribers');
 const app = express()
 
 
-// Your code goes here
+
 
 app.get('/subscribers', async (req, res) => {
   try {
@@ -38,7 +38,7 @@ app.get('/subscribers', async (req, res) => {
       if (!subscriber) {
         res.status(400).send('Subscriber not found');
       } else {
-        res.send({ subscriber}); // Construct the response object correctly
+        res.send({ subscriber}); 
       }
     } catch (error) {
       res.status(500).send('Error fetching subscriber');
