@@ -1,13 +1,12 @@
 # Get-Youtube-Subscribers
 
-Table of contents
+# Table of contents
 Overview
-API documentation
-My process
-Built with
-What I learned
-
-Author
+- API Documentation
+- My process
+- Built with
+- What I learned
+- Author
 
 Overview
 This is the solution for the capstone project "GET YOUTUBE SUBSCRIBERS" provided by Alma Better.
