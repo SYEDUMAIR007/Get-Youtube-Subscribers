@@ -23,7 +23,7 @@ Mongo DB (Database)
 Mongoose (DB library)
 
 ## What I learned
-I learned how to create an API and how to connect the front end with it along with Mongoose for integrating the application with the database.
+I learned how to create an API and how to connect the front end with backend along with the use of Mongoose for integrating the application with the database.
 
 ## Author
 Syed Umair
