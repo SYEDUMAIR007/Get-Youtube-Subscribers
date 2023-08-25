@@ -16,4 +16,4 @@ const susbcriberSchema = new mongoose.Schema({
     }
 })
 
-module.exports = mongoose.model('Subscriber',susbcriberSchema);
+module.exports = mongoose.model('Subscriber',susbcriberSchema,'subscribers');
